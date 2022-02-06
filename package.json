@@ -1,0 +1,22 @@
+{
+  "name": "tilibobia_npm",
+  "version": "1.0.0",
+  "description": "Module B4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artemZiliboba/sf_npm.git"
+  },
+  "author": "A.Kapt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artemZiliboba/sf_npm/issues"
+  },
+  "homepage": "https://github.com/artemZiliboba/sf_npm#readme",
+  "dependencies": {
+    "tilibobia_npm": "file:"
+  }
+}
