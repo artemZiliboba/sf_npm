@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/artemZiliboba/sf_npm#readme",
   "dependencies": {
+    "jquery": "^3.6.0",
     "tilibobia_npm": "file:"
   }
 }
